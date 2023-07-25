@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on the job after graduation. <br>👯 I’m looking to collaborate on the development of the cloud.<br>🤝 I’m looking for help with Docker.<br>🌱 I’m currently learning Kubernetes.<br>💬 Ask me about Machine Learning; Maths.
+🔭 I’m currently working on the job after graduation. <br>👯 I’m looking to collaborate on the development of the cloud.<br>🤝 I’m looking for help with Docker.<br>🌱 I’m currently learning generative AI
+.<br>💬 Ask me about Machine Learning; Maths.
 
 
 ## 🌐 Socials:
